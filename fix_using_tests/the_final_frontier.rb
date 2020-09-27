@@ -12,4 +12,3 @@ end
 def engage
   puts state_log
 end
-end
