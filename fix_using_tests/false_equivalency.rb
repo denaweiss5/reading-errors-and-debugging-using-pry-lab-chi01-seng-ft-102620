@@ -1,6 +1,5 @@
 
-def selection(num)
-  num =1
+def selection(1,2)
   if num == 1
     "YUM YUM MUNCH MUNCH MUNCH"
   elsif num == 2
