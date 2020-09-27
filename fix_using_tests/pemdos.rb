@@ -1,6 +1,9 @@
 
 def snake_it_up(string)
-  10.time do
-    puts "s"
-    puts "surprise!"
+  string = "surprise"
+  if string[0] == "s"
+    "s" + string
+  else
+    string
   end
+end
