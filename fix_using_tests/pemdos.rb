@@ -1,7 +1,8 @@
 
 def snake_it_up(string)
+  string = "surprise"
   if string[0] == "s"
-    10 * "s" + string
+    "s".Times10 + string
   else
     string
   end
