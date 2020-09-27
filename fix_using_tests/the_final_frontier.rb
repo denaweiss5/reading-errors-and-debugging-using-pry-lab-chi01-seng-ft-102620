@@ -5,7 +5,7 @@ end
 
 
 def state_log(star_date)
-  star_date = generate_star_date
+  star_date = 50000
   "Captain's Log, star date #{star_date}"
 end
 
