@@ -5,7 +5,7 @@ end
 
 
 def state_log(star_date)
-  "Captain's Log, star date #{star_date}."
+  "Captain's Log, star date"
 end
 
 date = generate_star_date
